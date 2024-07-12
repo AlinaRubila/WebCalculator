@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(186, 206, 197);
+    color: #333;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+h1 {
+    color:rgb(21, 38, 75)
+}
+#but
+{
+    background-color: rgb(88, 181, 151);
+    color:#333;
+    border-color: rgb(88, 181, 151);
+    padding: 10px 30px;
+    transition: background-color 0.3s ease;
+}
+#card {
+    background-color: rgb(214, 241, 227);
+    border-radius: 5px;
+}
+#cardtitle {
+    font-weight:500;
+    font-size: 25px;
+    color:rgb(6, 94, 85)
+}
+#form {
+    background-color: rgb(214, 241, 227);
+    color:rgb(6, 94, 85);
+    max-width: 700px;
+}
+#nav {
+    background-color: rgb(20, 104, 75);
+}
+#res {
+    color:darkgreen;
+    font-family: 'Arial', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
